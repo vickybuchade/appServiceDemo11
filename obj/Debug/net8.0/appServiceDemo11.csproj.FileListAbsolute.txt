@@ -23,3 +23,4 @@ C:\git\appServiceDemo1\appServiceDemo11\obj\Debug\net8.0\refint\appServiceDemo11
 C:\git\appServiceDemo1\appServiceDemo11\obj\Debug\net8.0\appServiceDemo11.pdb
 C:\git\appServiceDemo1\appServiceDemo11\obj\Debug\net8.0\appServiceDemo11.genruntimeconfig.cache
 C:\git\appServiceDemo1\appServiceDemo11\obj\Debug\net8.0\ref\appServiceDemo11.dll
+C:\git\appServiceDemo1\appServiceDemo11\obj\Debug\net8.0\appServiceDemo11.sourcelink.json
